@@ -143,8 +143,8 @@ Add your projects to the end of this List!
 |Month   |Project                                               |Description             |
 |--------|------------------------------------------------------|------------------------------------------------|
 |01/2017 | dataknife                                | A command line tool that can convert tabular data from one format to another. |
-|02/2017 | Remember this number | An alexa skill that trains your memory by making you memorize a number
-
+|02/2017 | Cody | A skill for alexa
+|03/2017 | untitled | A way to manage code using DHT / hashing / and UUIDs 
 ## [brooksgarrett](https://github.com/brooksgarrett)
 
 |Month   |Project                                               |Description             |
